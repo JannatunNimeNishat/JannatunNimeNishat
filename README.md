@@ -1,16 +1,22 @@
-### Hi there 👋
-<h1>Hello world</h1>
+### Hi there 👋, Hi, I'm Md. Jannatun Nime
+#### I am MERN Stack Developer
+I am a motivated and passionate MERN Stack Developer with a strong foundation in frontend technologies. With a keen eye for
+detail and a passion for creating visually appealing and user-friendly applications. I am eager to contribute my skills to a
+collaborative team environment. And continuously seeking opportunities to grow and learn.
 
-**JannatunNimeNishat/JannatunNimeNishat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I found programming as my passion.
+- 🌱 I’m currently learning  NextJS, Redux, Mongoose 
+- 🥅 2023 Goals: Create as many projects as I can.  
 
-Here are some ideas to get you started:
+Skills: React / Node.js / Express.js / MongoDB /JavaScript / TailwindCSS / Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JannatunNimeNishat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jannatun-nime-aa8785145//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jannatunbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://my-portfolio-685d1.web.app/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JannatunNimeNishat)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatunNimeNishat)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JannatunNimeNishat&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=JannatunNimeNishat)  
 
