@@ -6,7 +6,7 @@ collaborative team environment. And continuously seeking opportunities to grow a
 
 - 🔭 I found programming as my passion.
 - 🌱 I’m currently learning  NextJS, Redux, Mongoose 
-- 🥅 2023 Goals: Create as many projects as I can.  
+- 🥅 2024 Goals: Create as many projects as I can.  
 
 Skills: React / Node.js / Express.js / MongoDB /JavaScript / TailwindCSS / Bootstrap
 
