@@ -6,7 +6,7 @@ collaborative team environment. And continuously seeking opportunities to grow a
 
 - 🔭 I found programming as my passion.
 - 🌱 I’m currently learning  NextJS, PostgreSQL, Prisma   
-- 🥅 2024 Goals: Create as many projects as I can.  
+- 🥅 2025 Goals: Create as many projects as I can.  
 
 Skills: React / Nextjs / Redux / TypeScript / JavaScript / Node.js / Express.js / MongoDB / Mongoose / Prisma / PostgreSQL / TailwindCSS / Bootstrap
 
