@@ -18,5 +18,5 @@ Skills: React / Nextjs / Redux / TypeScript / JavaScript / Node.js / Express.js 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JannatunNimeNishat&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=JannatunNimeNishat)  
+
 
